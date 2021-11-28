@@ -16,7 +16,7 @@ const ctx = canvas.getContext("2d")
 
 let stars = []
 
-setup()
+setup();
 
 function setup() {
   stars = []
